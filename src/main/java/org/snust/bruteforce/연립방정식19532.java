@@ -1,4 +1,4 @@
-package org.snust;
+package org.snust.bruteforce;
 
 import java.io.BufferedReader;
 import java.io.IOException;
