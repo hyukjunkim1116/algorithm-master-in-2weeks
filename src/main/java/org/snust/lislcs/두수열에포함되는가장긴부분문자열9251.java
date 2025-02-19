@@ -1,5 +1,5 @@
 
-package lislcs;
+package org.snust.lislcs;
 import java.io.*;
 public class 두수열에포함되는가장긴부분문자열9251 {
       public static void main(String[] args) throws IOException {

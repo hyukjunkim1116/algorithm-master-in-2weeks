@@ -1,4 +1,4 @@
-package lislcs;
+package org.snust.lislcs;
 
 import java.io.*;
 import java.util.*;
